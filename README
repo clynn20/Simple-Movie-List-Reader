@@ -1,0 +1,10 @@
+This is a simple movie list reader program.
+The program will read the input file named movies_sample_1.csv and prompt the user a menu of action they want to do as below: 
+    1. Show movies released in the specified year
+	2. Show highest rated movie for each year
+	3. Show the title and year of release of all movies in a specific language
+	4. Exit from the program
+
+Use commend make to compile the program
+Use the below commend to run the program 
+    ./movies movies_sample_1.csv
